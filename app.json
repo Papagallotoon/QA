@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "QA - Quantum Algo",
+    "slug": "bot-scanner-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.saucedelux.qaquantumalgo"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.saucedelux.qaquantumalgo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "saucedelux",
+    "extra": {
+      "eas": {
+        "projectId": "f5d4c7ed-0b6b-4b6d-afd4-bf378b3dfccc"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/f5d4c7ed-0b6b-4b6d-afd4-bf378b3dfccc"
+    }
+  }
+}

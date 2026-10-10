@@ -1,0 +1,15 @@
+{
+  "name": "quantum-algo-brain",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Tache quotidienne : verification, apprentissage et newsletter de Quantum Algo",
+  "scripts": {
+    "daily": "node daily.mjs",
+    "test": "node daily.mjs --fake --no-send"
+  },
+  "engines": { "node": ">=18" },
+  "optionalDependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}

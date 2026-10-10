@@ -1,0 +1,7 @@
+{
+  "watchlist": ["MC.PA", "TTE.PA", "AIR.PA", "NVDA", "MSFT"],
+  "maxPicks": 5,
+  "maxAvoid": 3,
+  "extraSymbols": [],
+  "extraIndex": {}
+}

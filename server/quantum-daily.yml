@@ -1,0 +1,57 @@
+name: Quantum Algo - routine du matin
+
+on:
+  schedule:
+    # du lundi au vendredi a 05:20 UTC = 7 h 20 a Paris (heure d'ete), 6 h 20 en hiver
+    - cron: "20 5 * * 1-5"
+  workflow_dispatch: {}   # bouton "Run workflow" pour lancer a la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: quantum-daily
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Dependances (nodemailer, seulement si SMTP)
+        working-directory: server
+        run: npm install --no-audit --no-fund
+
+      - name: Verification, apprentissage et newsletter
+        working-directory: server
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_FROM_NAME: ${{ secrets.MAIL_FROM_NAME }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          CALLMEBOT_PHONE: ${{ secrets.CALLMEBOT_PHONE }}
+          CALLMEBOT_APIKEY: ${{ secrets.CALLMEBOT_APIKEY }}
+          TWILIO_SID: ${{ secrets.TWILIO_SID }}
+          TWILIO_TOKEN: ${{ secrets.TWILIO_TOKEN }}
+          TWILIO_FROM: ${{ secrets.TWILIO_FROM }}
+          WHATSAPP_TO: ${{ secrets.WHATSAPP_TO }}
+        run: node daily.mjs
+
+      - name: Publier le modele et le bilan (lus par l'app)
+        if: always()
+        run: |
+          git config user.name "quantum-bot"
+          git config user.email "quantum-bot@users.noreply.github.com"
+          git add server/out
+          git diff --cached --quiet || git commit -m "routine du $(date -u +%F)"
+          git push
