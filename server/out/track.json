@@ -1,0 +1,14 @@
+{
+ "updatedAt": "2026-10-12T13:14:26.896Z",
+ "since": "12/10/2026",
+ "byHorizon": null,
+ "pending": 264,
+ "picks": [],
+ "picksSummary": null,
+ "changes": [
+  "12/10 - 3M : premier entrainement (ridge alpha=0.5), 58.1 % de bonnes directions sur 120 seances test",
+  "12/10 - 1M : premier entrainement (ridge alpha=0.5), 58.6 % de bonnes directions sur 120 seances test",
+  "12/10 - 1S : premier entrainement (ridge alpha=0.5), 50.1 % de bonnes directions sur 120 seances test",
+  "12/10 - 1J : premier entrainement (ridge alpha=0.5), 50.6 % de bonnes directions sur 120 seances test"
+ ]
+}
