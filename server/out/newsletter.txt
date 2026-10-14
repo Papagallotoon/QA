@@ -1,25 +1,25 @@
-*Quantum Algo – mardi 13 octobre 2026*
+*Quantum Algo – mercredi 14 octobre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 -0,06 % → 50 %
-S&P 500 -0,06 % → 50 %
-NASDAQ 100 -0,71 % → 50 %
-DOW JONES +0,38 % → 50 %
-DAX 40 +0,06 % → 50 %
-FTSE MIB +0,21 % → 50 %
-NIKKEI 225 -1,82 % → 50 %
+CAC 40 +0,63 % → 50 %
+S&P 500 -0,02 % → 50 %
+NASDAQ 100 -0,31 % → 50 %
+DOW JONES -0,35 % → 50 %
+DAX 40 +0,60 % → 50 %
+FTSE MIB +0,08 % → 50 %
+NIKKEI 225 -0,05 % → 50 %
 
 *Opportunités*
-• JPMorgan – Attendre la confirmation (3 mois) 64 %
-  entrée 342,00-343,70, stop 325,05, objectif 377,38, revoir le 14/01
-• UniCredit – Attendre la confirmation (3 mois) 63 %
-  entrée 85,24-85,86, stop 79,05, objectif 97,54, revoir le 15/01
-• Intesa Sanpaolo – Attendre la confirmation (3 mois) 61 %
-  entrée 6,84-6,88, stop 6,42, objectif 7,61, revoir le 15/01
-• Allianz – Attendre la confirmation (3 mois) 60 %
-  entrée 427,60-429,64, stop 407,17, objectif 466,12, revoir le 15/01
-• Michelin – Attendre la confirmation (3 mois) 60 %
-  entrée 34,07-34,24, stop 32,35, objectif 37,02, revoir le 15/01
+• Johnson & Johnson – Attendre la confirmation (3 mois) 63 %
+  entrée 271,89-273,73, stop 253,50, objectif 307,46, revoir le 15/01
+• JPMorgan – Attendre la confirmation (3 mois) 63 %
+  entrée 338,75-340,61, stop 320,18, objectif 371,17, revoir le 15/01
+• UniCredit – Attendre la confirmation (3 mois) 62 %
+  entrée 84,77-85,34, stop 79,07, objectif 96,72, revoir le 18/01
+• Caterpillar – Attendre la confirmation (3 mois) 61 %
+  entrée 876,95-885,02, stop 796,24, objectif 1047,63, revoir le 15/01
+• Tokyo Electron – Entrer (3 mois) 61 %
+  entrée 10977,10-11345,16, stop 9662,60, objectif 14825,33, revoir le 11/01
 
 *À éviter*
 • Alstom 46 % (3 mois)
