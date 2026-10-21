@@ -1,27 +1,28 @@
-*Quantum Algo – mardi 20 octobre 2026*
+*Quantum Algo – mercredi 21 octobre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 -0,81 % → 50 %
-S&P 500 +0,41 % → 50 %
-NASDAQ 100 +1,17 % → 50 %
-DOW JONES -0,07 % → 50 %
-DAX 40 -0,93 % → 50 %
-FTSE MIB -0,91 % → 50 %
-NIKKEI 225 -1,30 % → 50 %
+CAC 40 +0,49 % → 50 %
+S&P 500 +0,28 % → 50 %
+NASDAQ 100 -0,13 % → 50 %
+DOW JONES +1,02 % → 50 %
+DAX 40 +0,58 % → 50 %
+FTSE MIB +0,40 % → 50 %
+NIKKEI 225 +0,85 % → 50 %
 
 *Opportunités*
+• Siemens – Attendre la confirmation (3 mois) 63 %
+  entrée 278,90-280,86, stop 259,28, objectif 322,79, revoir le 25/01
 • Tokyo Electron – Attendre la confirmation (3 mois) 61 %
-  entrée 12915,00-13072,38, stop 11341,23, objectif 16821,16, revoir le 22/01
-• Johnson & Johnson – Attendre la confirmation (3 mois) 61 %
-  entrée 264,39-266,20, stop 246,25, objectif 294,60, revoir le 21/01
-• Siemens – Attendre la confirmation (3 mois) 61 %
-  entrée 280,05-282,09, stop 259,66, objectif 320,01, revoir le 22/01
-• Michelin – Attendre la confirmation (3 mois) 61 %
-  entrée 34,28-34,45, stop 32,57, objectif 37,22, revoir le 22/01
-• UniCredit – Attendre la confirmation (3 mois) 60 %
-  entrée 81,74-82,32, stop 75,90, objectif 92,69, revoir le 22/01
+  entrée 12915,00-13068,42, stop 11380,78, objectif 17006,31, revoir le 25/01
+• Allianz – Attendre la confirmation (3 mois) 60 %
+  entrée 435,20-437,17, stop 415,51, objectif 476,34, revoir le 25/01
+• Johnson & Johnson – Attendre la confirmation (3 mois) 60 %
+  entrée 264,39-266,22, stop 246,05, objectif 295,16, revoir le 22/01
+• Nvidia – Entrer (3 mois) 60 %
+  entrée 213,51-217,65, stop 198,72, objectif 257,05, revoir le 15/01
 
 *À éviter*
-• Toyota 45 % (1 mois)
+• Sanofi 43 % (1 mois)
+• Renault 44 % (1 mois)
 
 _Info statistique, pas un conseil._
