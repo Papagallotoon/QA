@@ -1,27 +1,24 @@
-*Quantum Algo – mercredi 28 octobre 2026*
+*Quantum Algo – jeudi 29 octobre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 -0,17 % → 50 %
-S&P 500 +0,60 % → 50 %
-NASDAQ 100 +1,29 % → 50 %
-DOW JONES +0,03 % → 50 %
-DAX 40 -0,04 % → 50 %
-FTSE MIB -0,09 % → 50 %
-NIKKEI 225 +1,08 % → 50 %
+CAC 40 +0,96 % → 50 %
+S&P 500 +0,28 % → 50 %
+NASDAQ 100 +0,55 % → 50 %
+DOW JONES +0,19 % → 50 %
+DAX 40 +1,02 % → 50 %
+FTSE MIB -0,02 % → 50 %
+NIKKEI 225 +1,10 % → 50 %
 
 *Opportunités*
-• Siemens – Attendre la confirmation (3 mois) 61 %
-  entrée 277,80-279,79, stop 257,95, objectif 316,55, revoir le 01/02
-• Keyence – Attendre la confirmation (3 mois) 61 %
-  entrée 82350,00-82980,46, stop 76045,36, objectif 94756,44, revoir le 01/02
-• Michelin – Attendre la confirmation (3 mois) 60 %
-  entrée 34,28-34,47, stop 32,33, objectif 38,38, revoir le 01/02
-• Generali – Attendre la confirmation (3 mois) 60 %
-  entrée 43,00-43,21, stop 40,90, objectif 46,81, revoir le 01/02
-• JPMorgan – Attendre la confirmation (3 mois) 60 %
-  entrée 344,40-346,21, stop 326,28, objectif 371,69, revoir le 29/01
-
-*À éviter*
-• Sanofi 42 % (1 mois)
+• Generali – Attendre la confirmation (3 mois) 61 %
+  entrée 43,00-43,21, stop 40,94, objectif 46,92, revoir le 02/02
+• Intesa Sanpaolo – Attendre la confirmation (3 mois) 60 %
+  entrée 6,20-6,24, stop 5,80, objectif 6,87, revoir le 02/02
+• Keyence – Attendre la confirmation (3 mois) 60 %
+  entrée 82350,00-82996,07, stop 75889,26, objectif 94500,92, revoir le 02/02
+• UniCredit – Attendre la confirmation (3 mois) 59 %
+  entrée 77,11-77,69, stop 71,32, objectif 87,20, revoir le 02/02
+• Michelin – Attendre la confirmation (3 mois) 59 %
+  entrée 34,28-34,47, stop 32,42, objectif 38,23, revoir le 02/02
 
 _Info statistique, pas un conseil._
