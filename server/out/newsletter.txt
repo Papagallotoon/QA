@@ -1,24 +1,24 @@
-*Quantum Algo – jeudi 29 octobre 2026*
+*Quantum Algo – vendredi 30 octobre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 +0,96 % → 50 %
-S&P 500 +0,28 % → 50 %
-NASDAQ 100 +0,55 % → 50 %
-DOW JONES +0,19 % → 50 %
-DAX 40 +1,02 % → 50 %
-FTSE MIB -0,02 % → 50 %
-NIKKEI 225 +1,10 % → 50 %
+CAC 40 +0,26 % → 50 %
+S&P 500 -0,30 % → 50 %
+NASDAQ 100 -1,38 % → 50 %
+DOW JONES -0,25 % → 50 %
+DAX 40 -0,48 % → 50 %
+FTSE MIB -0,64 % → 50 %
+NIKKEI 225 -2,12 % → 50 %
 
 *Opportunités*
 • Generali – Attendre la confirmation (3 mois) 61 %
-  entrée 43,00-43,21, stop 40,94, objectif 46,92, revoir le 02/02
+  entrée 43,00-43,20, stop 40,96, objectif 47,03, revoir le 03/02
+• UniCredit – Attendre la confirmation (3 mois) 61 %
+  entrée 76,49-77,07, stop 70,72, objectif 86,82, revoir le 03/02
 • Intesa Sanpaolo – Attendre la confirmation (3 mois) 60 %
-  entrée 6,20-6,24, stop 5,80, objectif 6,87, revoir le 02/02
-• Keyence – Attendre la confirmation (3 mois) 60 %
-  entrée 82350,00-82996,07, stop 75889,26, objectif 94500,92, revoir le 02/02
-• UniCredit – Attendre la confirmation (3 mois) 59 %
-  entrée 77,11-77,69, stop 71,32, objectif 87,20, revoir le 02/02
-• Michelin – Attendre la confirmation (3 mois) 59 %
-  entrée 34,28-34,47, stop 32,42, objectif 38,23, revoir le 02/02
+  entrée 6,20-6,24, stop 5,80, objectif 6,86, revoir le 03/02
+• Siemens – Attendre la confirmation (3 mois) 60 %
+  entrée 274,65-276,70, stop 254,12, objectif 311,00, revoir le 03/02
+• Schneider Electric – Attendre la confirmation (3 mois) 60 %
+  entrée 264,20-266,83, stop 237,88, objectif 314,79, revoir le 03/02
 
 _Info statistique, pas un conseil._
