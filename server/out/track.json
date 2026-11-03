@@ -1,23 +1,23 @@
 {
- "updatedAt": "2026-11-02T13:36:23.313Z",
+ "updatedAt": "2026-11-03T12:51:13.654Z",
  "since": "12/10/2026",
  "byHorizon": {
   "1J": {
-   "n": 990,
+   "n": 1048,
    "hit": 0,
    "nConf": 0,
    "hitConf": 0,
    "brier": 0.25
   },
   "1S": {
-   "n": 726,
+   "n": 784,
    "hit": 0,
    "nConf": 0,
    "hitConf": 0,
    "brier": 0.25
   }
  },
- "pending": 2508,
+ "pending": 2624,
  "picks": [],
  "picksSummary": null,
  "changes": [
