@@ -1,27 +1,27 @@
-*Quantum Algo – mardi 3 novembre 2026*
+*Quantum Algo – mercredi 4 novembre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 -0,13 % → 50 %
-S&P 500 -0,51 % → 50 %
-NASDAQ 100 -1,39 % → 50 %
-DOW JONES +0,41 % → 50 %
-DAX 40 -0,54 % → 50 %
-FTSE MIB -0,36 % → 50 %
-NIKKEI 225 -0,33 % → 50 %
+CAC 40 +1,64 % → 50 %
+S&P 500 +0,36 % → 50 %
+NASDAQ 100 +0,68 % → 50 %
+DOW JONES -0,38 % → 50 %
+DAX 40 +1,49 % → 50 %
+FTSE MIB +2,15 % → 50 %
+NIKKEI 225 -1,42 % → 50 %
 
 *Opportunités*
-• Generali – Attendre la confirmation (3 mois) 60 %
-  entrée 43,03-43,23, stop 41,00, objectif 46,71, revoir le 05/02
-• UniCredit – Attendre la confirmation (3 mois) 60 %
-  entrée 75,48-76,05, stop 69,82, objectif 85,40, revoir le 05/02
+• UniCredit – Attendre la confirmation (3 mois) 61 %
+  entrée 75,67-76,31, stop 69,36, objectif 86,90, revoir le 08/02
+• Nvidia – Attendre la confirmation (3 mois) 61 %
+  entrée 222,19-224,12, stop 202,92, objectif 262,01, revoir le 05/02
+• Intesa Sanpaolo – Attendre la confirmation (3 mois) 60 %
+  entrée 6,10-6,14, stop 5,66, objectif 6,84, revoir le 08/02
 • Schneider Electric – Attendre la confirmation (3 mois) 60 %
-  entrée 250,74-253,31, stop 225,01, objectif 303,47, revoir le 05/02
-• Intesa Sanpaolo – Attendre la confirmation (3 mois) 59 %
-  entrée 6,08-6,12, stop 5,69, objectif 6,74, revoir le 05/02
-• Michelin – Attendre la confirmation (3 mois) 59 %
-  entrée 33,39-33,57, stop 31,56, objectif 37,19, revoir le 05/02
+  entrée 249,55-252,17, stop 223,37, objectif 298,29, revoir le 08/02
+• Mitsubishi UFJ – Attendre la confirmation (3 mois) 59 %
+  entrée 3498,00-3528,90, stop 3189,00, objectif 3998,23, revoir le 08/02
 
 *À éviter*
-• Shin-Etsu 45 % (1 mois)
+• BMW 47 % (1 mois)
 
 _Info statistique, pas un conseil._

@@ -1,26 +1,27 @@
 {
- "updatedAt": "2026-11-03T12:51:13.654Z",
+ "updatedAt": "2026-11-04T13:03:38.475Z",
  "since": "12/10/2026",
  "byHorizon": {
   "1J": {
-   "n": 1048,
+   "n": 1114,
    "hit": 0,
    "nConf": 0,
    "hitConf": 0,
    "brier": 0.25
   },
   "1S": {
-   "n": 784,
+   "n": 850,
    "hit": 0,
    "nConf": 0,
    "hitConf": 0,
    "brier": 0.25
   }
  },
- "pending": 2624,
+ "pending": 2756,
  "picks": [],
  "picksSummary": null,
  "changes": [
+  "04/11 - 1J : nouvelle configuration adoptee (vote a poids egaux), 49.2 % de bonnes directions sur 120 seances test",
   "12/10 - 3M : premier entrainement (ridge alpha=0.5), 58.1 % de bonnes directions sur 120 seances test",
   "12/10 - 1M : premier entrainement (ridge alpha=0.5), 58.6 % de bonnes directions sur 120 seances test",
   "12/10 - 1S : premier entrainement (ridge alpha=0.5), 50.1 % de bonnes directions sur 120 seances test",
