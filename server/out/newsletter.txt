@@ -1,24 +1,24 @@
-*Quantum Algo – vendredi 6 novembre 2026*
+*Quantum Algo – lundi 9 novembre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 -1,75 % → 50 %
-S&P 500 -4,36 % → 50 %
-NASDAQ 100 -6,36 % → 50 %
-DOW JONES -3,44 % → 50 %
-DAX 40 -2,29 % → 50 %
-FTSE MIB -1,21 % → 50 %
-NIKKEI 225 -5,96 % → 50 %
+CAC 40 +0,91 % → 52 %
+S&P 500 +0,31 % → 52 %
+NASDAQ 100 +1,35 % → 51 %
+DOW JONES -0,46 % → 52 %
+DAX 40 +1,17 % → 52 %
+FTSE MIB +2,16 % → 52 %
+NIKKEI 225 +2,33 % → 51 %
 
 *Opportunités*
-• Intesa Sanpaolo – Attendre la confirmation (3 mois) 62 %
-  entrée 6,38-6,42, stop 5,93, objectif 7,21, revoir le 10/02
-• UniCredit – Attendre la confirmation (3 mois) 62 %
-  entrée 79,19-79,84, stop 72,71, objectif 91,07, revoir le 10/02
-• Siemens – Attendre la confirmation (3 mois) 60 %
-  entrée 280,40-282,71, stop 257,30, objectif 321,72, revoir le 10/02
+• Siemens – Attendre la confirmation (3 mois) 61 %
+  entrée 280,40-282,73, stop 257,14, objectif 320,50, revoir le 11/02
+• Intesa Sanpaolo – Attendre la confirmation (3 mois) 60 %
+  entrée 6,38-6,42, stop 5,93, objectif 7,11, revoir le 11/02
+• Ubisoft – Attendre la confirmation (3 mois) 59 %
+  entrée 4,57-4,64, stop 3,83, objectif 5,68, revoir le 11/02
 • Tokyo Electron – Attendre la confirmation (3 mois) 59 %
-  entrée 10210,00-10404,64, stop 8263,57, objectif 13129,64, revoir le 10/02
-• NTT – Entrer (3 mois) 58 %
-  entrée 158,22-160,99, stop 148,34, objectif 178,11, revoir le 03/02
+  entrée 10210,00-10402,40, stop 8286,03, objectif 13095,95, revoir le 11/02
+• UniCredit – Attendre un repli (3 mois) 59 %
+  entrée 75,83-77,60, stop 69,65, objectif 87,55, revoir le 11/02
 
 _Info statistique, pas un conseil._
