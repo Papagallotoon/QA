@@ -1,24 +1,24 @@
-*Quantum Algo – mercredi 11 novembre 2026*
+*Quantum Algo – jeudi 12 novembre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 +0,36 % → 52 %
-S&P 500 -0,38 % → 51 %
-NASDAQ 100 -0,60 % → 51 %
-DOW JONES -0,30 % → 52 %
-DAX 40 +0,75 % → 53 %
-FTSE MIB +0,14 % → 52 %
-NIKKEI 225 +1,31 % → 51 %
+CAC 40 +0,29 % → 53 %
+S&P 500 +1,31 % → 52 %
+NASDAQ 100 +2,28 % → 51 %
+DOW JONES +0,49 % → 53 %
+DAX 40 +0,21 % → 53 %
+FTSE MIB -0,35 % → 53 %
+NIKKEI 225 -0,70 % → 51 %
 
 *Opportunités*
-• ExxonMobil – Entrer (3 mois) 59 %
-  entrée 162,15-165,40, stop 150,57, objectif 185,92, revoir le 05/02
-• Eni – Entrer (3 mois) 59 %
-  entrée 24,92-25,35, stop 23,37, objectif 28,16, revoir le 08/02
+• ExxonMobil – Entrer (3 mois) 60 %
+  entrée 164,48-167,60, stop 153,31, objectif 188,33, revoir le 08/02
 • Intesa Sanpaolo – Attendre la confirmation (3 mois) 59 %
-  entrée 6,49-6,54, stop 6,03, objectif 7,26, revoir le 15/02
-• Ubisoft – Attendre la confirmation (3 mois) 59 %
-  entrée 4,62-4,69, stop 3,90, objectif 5,69, revoir le 15/02
-• NTT – Entrer (3 mois) 58 %
-  entrée 160,23-162,99, stop 150,40, objectif 180,77, revoir le 08/02
+  entrée 6,49-6,54, stop 6,05, objectif 7,29, revoir le 16/02
+• Schneider Electric – Attendre la confirmation (3 mois) 58 %
+  entrée 249,55-252,13, stop 223,76, objectif 294,36, revoir le 16/02
+• Eurofins – Entrer (3 mois) 58 %
+  entrée 86,83-88,11, stop 82,26, objectif 96,47, revoir le 09/02
+• Johnson & Johnson – Entrer (3 mois) 58 %
+  entrée 276,94-281,80, stop 259,61, objectif 313,80, revoir le 08/02
 
 _Info statistique, pas un conseil._
