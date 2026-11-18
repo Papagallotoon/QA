@@ -1,24 +1,24 @@
-*Quantum Algo – mardi 17 novembre 2026*
+*Quantum Algo – mercredi 18 novembre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 -1,25 % → 53 %
-S&P 500 -0,21 % → 51 %
-NASDAQ 100 +0,01 % → 51 %
-DOW JONES -0,62 % → 51 %
-DAX 40 -1,23 % → 53 %
-FTSE MIB -0,61 % → 53 %
-NIKKEI 225 -1,34 % → 51 %
+CAC 40 -0,27 % → 53 %
+S&P 500 -1,03 % → 51 %
+NASDAQ 100 -0,72 % → 51 %
+DOW JONES -1,64 % → 51 %
+DAX 40 -0,33 % → 52 %
+FTSE MIB -0,34 % → 52 %
+NIKKEI 225 +0,28 % → 51 %
 
 *Opportunités*
-• ExxonMobil – Entrer (3 mois) 58 %
-  entrée 165,66-168,55, stop 155,34, objectif 189,05, revoir le 12/02
-• Keyence – Attendre la confirmation (3 mois) 58 %
-  entrée 77630,00-78427,72, stop 69652,77, objectif 89595,85, revoir le 19/02
-• Ferrari – Entrer (3 mois) 58 %
-  entrée 361,79-367,97, stop 339,72, objectif 405,92, revoir le 12/02
-• Schneider Electric – Attendre la confirmation (3 mois) 58 %
-  entrée 246,30-248,58, stop 223,47, objectif 289,35, revoir le 19/02
+• Intesa Sanpaolo – Attendre la confirmation (3 mois) 58 %
+  entrée 6,49-6,54, stop 6,08, objectif 7,27, revoir le 22/02
 • JPMorgan – Attendre la confirmation (3 mois) 58 %
-  entrée 359,80-361,96, stop 338,21, objectif 392,72, revoir le 19/02
+  entrée 359,80-362,04, stop 337,42, objectif 394,97, revoir le 19/02
+• ExxonMobil – Entrer (3 mois) 58 %
+  entrée 165,10-168,05, stop 154,54, objectif 187,07, revoir le 12/02
+• Generali – Entrer (3 mois) 58 %
+  entrée 43,80-44,32, stop 41,98, objectif 48,05, revoir le 15/02
+• Ferrari – Entrer (3 mois) 57 %
+  entrée 364,96-371,18, stop 342,77, objectif 409,35, revoir le 15/02
 
 _Info statistique, pas un conseil._
