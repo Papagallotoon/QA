@@ -1,30 +1,30 @@
 {
- "updatedAt": "2026-11-18T14:10:03.321Z",
+ "updatedAt": "2026-11-19T14:29:08.519Z",
  "since": "12/10/2026",
  "byHorizon": {
   "1J": {
-   "n": 1755,
-   "hit": 160,
+   "n": 1821,
+   "hit": 185,
    "nConf": 0,
    "hitConf": 0,
-   "brier": 0.25051549784615407
+   "brier": 0.2505948205985726
   },
   "1S": {
-   "n": 1510,
-   "hit": 93,
-   "nConf": 0,
-   "hitConf": 0,
-   "brier": 0.2502360301986757
+   "n": 1576,
+   "hit": 103,
+   "nConf": 10,
+   "hitConf": 2,
+   "brier": 0.25087161285533005
   },
   "1M": {
-   "n": 454,
-   "hit": 152,
-   "nConf": 78,
-   "hitConf": 25,
-   "brier": 0.2573045482819384
+   "n": 520,
+   "hit": 175,
+   "nConf": 100,
+   "hitConf": 32,
+   "brier": 0.25777348332692307
   }
  },
- "pending": 3565,
+ "pending": 3631,
  "picks": [],
  "picksSummary": null,
  "changes": [
