@@ -1,24 +1,26 @@
-*Quantum Algo – jeudi 19 novembre 2026*
+*Quantum Algo – vendredi 20 novembre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 -0,11 % → 52 %
-S&P 500 -0,23 % → 51 %
-NASDAQ 100 +0,42 % → 51 %
-DOW JONES -1,11 % → 51 %
-DAX 40 -0,15 % → 52 %
-FTSE MIB +0,66 % → 52 %
-NIKKEI 225 +0,71 % → 51 %
+CAC 40 -1,52 % → 51 %
+S&P 500 -2,02 % → 50 %
+NASDAQ 100 -2,21 % → 50 %
+DOW JONES -2,19 % → 50 %
+DAX 40 -2,20 % → 51 %
+FTSE MIB -1,93 % → 51 %
+NIKKEI 225 -5,06 % → 51 %
 
 *Opportunités*
-• Intesa Sanpaolo – Attendre la confirmation (3 mois) 58 %
-  entrée 6,49-6,54, stop 6,08, objectif 7,34, revoir le 23/02
-• Eni – Entrer (3 mois) 58 %
-  entrée 24,71-25,11, stop 23,29, objectif 27,92, revoir le 16/02
-• Generali – Entrer (3 mois) 57 %
-  entrée 43,30-43,81, stop 41,48, objectif 47,36, revoir le 16/02
+• Generali – Attendre la confirmation (3 mois) 57 %
+  entrée 45,18-45,40, stop 42,95, objectif 49,39, revoir le 24/02
+• Coca-Cola – Entrer (3 mois) 57 %
+  entrée 95,19-96,45, stop 90,71, objectif 104,16, revoir le 16/02
 • ExxonMobil – Entrer (3 mois) 57 %
-  entrée 158,38-161,46, stop 147,39, objectif 180,36, revoir le 15/02
-• Siemens – Entrer (3 mois) 57 %
-  entrée 267,58-273,00, stop 248,25, objectif 309,05, revoir le 16/02
+  entrée 156,77-159,80, stop 145,94, objectif 178,68, revoir le 16/02
+• UniCredit – Entrer (3 mois) 57 %
+  entrée 78,03-79,52, stop 72,71, objectif 90,00, revoir le 17/02
+• Intesa Sanpaolo – Attendre la confirmation (3 mois) 57 %
+  entrée 6,49-6,54, stop 6,07, objectif 7,26, revoir le 24/02
+
+Fiabilité réelle 1 sem. : 9 % sur 32 prévisions
 
 _Info statistique, pas un conseil._
