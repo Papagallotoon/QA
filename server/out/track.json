@@ -1,33 +1,34 @@
 {
- "updatedAt": "2026-11-20T14:06:11.524Z",
+ "updatedAt": "2026-11-23T16:05:47.838Z",
  "since": "12/10/2026",
  "byHorizon": {
   "1J": {
-   "n": 1887,
-   "hit": 190,
+   "n": 1945,
+   "hit": 225,
    "nConf": 0,
    "hitConf": 0,
-   "brier": 0.2508106451351356
+   "brier": 0.25076883041131137
   },
   "1S": {
-   "n": 1642,
-   "hit": 104,
-   "nConf": 32,
-   "hitConf": 3,
-   "brier": 0.25181070406211953
+   "n": 1700,
+   "hit": 105,
+   "nConf": 68,
+   "hitConf": 4,
+   "brier": 0.2527783256
   },
   "1M": {
-   "n": 586,
-   "hit": 199,
-   "nConf": 120,
-   "hitConf": 41,
-   "brier": 0.2574994320136517
+   "n": 663,
+   "hit": 226,
+   "nConf": 135,
+   "hitConf": 46,
+   "brier": 0.25742772408748094
   }
  },
- "pending": 3697,
+ "pending": 3736,
  "picks": [],
  "picksSummary": null,
  "changes": [
+  "23/11 - 1M : nouvelle configuration adoptee (vote a poids egaux), 49.8 % de bonnes directions sur 120 seances test",
   "05/11 - 1S : nouvelle configuration adoptee (vote a poids egaux), 49.6 % de bonnes directions sur 120 seances test",
   "04/11 - 1J : nouvelle configuration adoptee (vote a poids egaux), 49.2 % de bonnes directions sur 120 seances test",
   "12/10 - 3M : premier entrainement (ridge alpha=0.5), 58.1 % de bonnes directions sur 120 seances test",
