@@ -1,26 +1,26 @@
-*Quantum Algo – lundi 23 novembre 2026*
+*Quantum Algo – mardi 24 novembre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 +1,44 % → 51 %
-S&P 500 +4,85 % → 50 %
-NASDAQ 100 +6,85 % → 50 %
-DOW JONES +2,99 % → 50 %
-DAX 40 +2,18 % → 50 %
-FTSE MIB +0,39 % → 50 %
+CAC 40 +0,09 % → 50 %
+S&P 500 -0,85 % → 50 %
+NASDAQ 100 -2,36 % → 50 %
+DOW JONES +0,23 % → 50 %
+DAX 40 -1,04 % → 50 %
+FTSE MIB -1,56 % → 50 %
 NIKKEI 225 -5,06 % → 50 %
 
 *Opportunités*
-• Generali – Entrer (3 mois) 57 %
-  entrée 43,25-43,76, stop 41,43, objectif 47,49, revoir le 18/02
+• Generali – Entrer (3 mois) 56 %
+  entrée 43,05-43,55, stop 41,27, objectif 47,17, revoir le 19/02
+• TotalEnergies – Entrer (3 mois) 56 %
+  entrée 76,78-77,96, stop 72,55, objectif 85,22, revoir le 19/02
+• Coca-Cola – Entrer (3 mois) 56 %
+  entrée 96,76-98,05, stop 92,14, objectif 105,99, revoir le 19/02
+• SAP – Entrer (3 mois) 56 %
+  entrée 186,36-190,64, stop 171,06, objectif 216,96, revoir le 19/02
 • Ferrari – Entrer (3 mois) 56 %
-  entrée 359,68-365,94, stop 337,31, objectif 404,42, revoir le 18/02
-• Intesa Sanpaolo – Attendre la confirmation (3 mois) 56 %
-  entrée 6,49-6,54, stop 6,05, objectif 7,21, revoir le 25/02
-• Siemens – Entrer (3 mois) 56 %
-  entrée 261,75-267,56, stop 241,00, objectif 303,24, revoir le 18/02
-• UniCredit – Attendre la confirmation (3 mois) 56 %
-  entrée 85,00-85,66, stop 78,44, objectif 96,57, revoir le 25/02
+  entrée 356,36-362,57, stop 334,18, objectif 400,74, revoir le 19/02
 
-Fiabilité réelle 1 sem. : 6 % sur 68 prévisions
+Fiabilité réelle 1 sem. : 8 % sur 88 prévisions
 
 _Info statistique, pas un conseil._
