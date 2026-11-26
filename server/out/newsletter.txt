@@ -1,26 +1,26 @@
-*Quantum Algo – mercredi 25 novembre 2026*
+*Quantum Algo – jeudi 26 novembre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 -0,25 % → 50 %
-S&P 500 -2,64 % → 49 %
-NASDAQ 100 -4,19 % → 49 %
-DOW JONES -1,49 % → 49 %
-DAX 40 -0,95 % → 49 %
-FTSE MIB -1,24 % → 49 %
-NIKKEI 225 +3,91 % → 50 %
+CAC 40 +1,78 % → 50 %
+S&P 500 -0,25 % → 49 %
+NASDAQ 100 -0,64 % → 49 %
+DOW JONES +0,33 % → 50 %
+DAX 40 +2,16 % → 50 %
+FTSE MIB +2,45 % → 49 %
+NIKKEI 225 -2,78 % → 49 %
 
 *Opportunités*
-• Generali – Attendre la confirmation (3 mois) 56 %
-  entrée 45,18-45,40, stop 43,02, objectif 48,90, revoir le 01/03
-• Costco – Entrer (3 mois) 56 %
-  entrée 1079,22-1092,63, stop 1031,34, objectif 1175,15, revoir le 22/02
-• JPMorgan – Attendre la confirmation (3 mois) 56 %
-  entrée 347,20-349,58, stop 323,44, objectif 382,85, revoir le 01/03
-• TotalEnergies – Entrer (3 mois) 56 %
-  entrée 77,34-78,49, stop 73,22, objectif 85,64, revoir le 22/02
-• SAP – Entrer (3 mois) 56 %
-  entrée 186,63-190,84, stop 171,58, objectif 216,73, revoir le 22/02
+• Schneider Electric – Attendre la confirmation (3 mois) 55 %
+  entrée 246,30-248,86, stop 220,70, objectif 291,15, revoir le 02/03
+• TotalEnergies – Entrer (3 mois) 55 %
+  entrée 77,73-78,87, stop 73,66, objectif 85,97, revoir le 23/02
+• Hermes – Attendre la confirmation (3 mois) 55 %
+  entrée 1383,00-1395,06, stop 1262,44, objectif 1563,84, revoir le 02/03
+• Michelin – Attendre la confirmation (3 mois) 55 %
+  entrée 34,30-34,49, stop 32,38, objectif 37,70, revoir le 02/03
+• Google Alphabet – Attendre la confirmation (3 mois) 55 %
+  entrée 304,97-308,53, stop 269,42, objectif 358,30, revoir le 01/03
 
-Fiabilité réelle 1 sem. : 9 % sur 91 prévisions
+Fiabilité réelle 1 sem. : 10 % sur 93 prévisions
 
 _Info statistique, pas un conseil._
