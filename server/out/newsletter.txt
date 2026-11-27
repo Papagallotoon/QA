@@ -1,26 +1,26 @@
-*Quantum Algo – jeudi 26 novembre 2026*
+*Quantum Algo – vendredi 27 novembre 2026*
 
 *Indices* (proba hausse 1 sem.)
-CAC 40 +1,78 % → 50 %
-S&P 500 -0,25 % → 49 %
-NASDAQ 100 -0,64 % → 49 %
-DOW JONES +0,33 % → 50 %
-DAX 40 +2,16 % → 50 %
-FTSE MIB +2,45 % → 49 %
-NIKKEI 225 -2,78 % → 49 %
+CAC 40 +0,44 % → 51 %
+S&P 500 +0,68 % → 50 %
+NASDAQ 100 +0,95 % → 50 %
+DOW JONES +0,65 % → 50 %
+DAX 40 +0,58 % → 50 %
+FTSE MIB +1,71 % → 50 %
+NIKKEI 225 +0,86 % → 50 %
 
 *Opportunités*
-• Schneider Electric – Attendre la confirmation (3 mois) 55 %
-  entrée 246,30-248,86, stop 220,70, objectif 291,15, revoir le 02/03
-• TotalEnergies – Entrer (3 mois) 55 %
-  entrée 77,73-78,87, stop 73,66, objectif 85,97, revoir le 23/02
-• Hermes – Attendre la confirmation (3 mois) 55 %
-  entrée 1383,00-1395,06, stop 1262,44, objectif 1563,84, revoir le 02/03
-• Michelin – Attendre la confirmation (3 mois) 55 %
-  entrée 34,30-34,49, stop 32,38, objectif 37,70, revoir le 02/03
-• Google Alphabet – Attendre la confirmation (3 mois) 55 %
-  entrée 304,97-308,53, stop 269,42, objectif 358,30, revoir le 01/03
+• Schneider Electric – Attendre la confirmation (3 mois) 56 %
+  entrée 244,80-247,35, stop 219,31, objectif 287,08, revoir le 03/03
+• Air Liquide – Attendre un repli (3 mois) 56 %
+  entrée 186,78-188,77, stop 179,80, objectif 200,20, revoir le 03/03
+• TotalEnergies – Entrer (3 mois) 56 %
+  entrée 78,13-79,23, stop 74,21, objectif 85,99, revoir le 24/02
+• Sanofi – Attendre un repli (3 mois) 56 %
+  entrée 87,17-89,29, stop 79,78, objectif 100,90, revoir le 03/03
+• Capgemini – Entrer (3 mois) 56 %
+  entrée 119,75-122,27, stop 110,77, objectif 137,87, revoir le 24/02
 
-Fiabilité réelle 1 sem. : 10 % sur 93 prévisions
+Fiabilité réelle 1 sem. : 10 % sur 94 prévisions
 
 _Info statistique, pas un conseil._
